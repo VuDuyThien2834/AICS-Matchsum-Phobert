@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python train_matching.py --mode=test --encoder=phobert --save_path=./phobert/2023-02-10-18-49-59 --gpus=0
